@@ -1,0 +1,1 @@
+from .geoSpatialModel import GeospatialSoilPredictor
