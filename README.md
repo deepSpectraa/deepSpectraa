@@ -1,4 +1,4 @@
-# deepSpectra: AI-Powered Soil Analysis & Advisory System
+# deepSpectraa: AI-Powered Soil Analysis & Advisory System
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
