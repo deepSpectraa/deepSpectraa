@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-green.svg)
 
-deepSpectra is an advanced AI-powered platform that revolutionizes soil analysis and agricultural advisory services through cutting-edge machine learning and remote sensing technologies.
+deepSpectraa is an advanced AI-powered platform that revolutionizes soil analysis and agricultural advisory services through cutting-edge machine learning and remote sensing technologies.
 
 ## Key Features
 
@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Community
 
-- [Report Issues](https://github.com/deepSpectra/deepSpectraa/issues)
+- [Report Issues](https://github.com/deepSpectraa/deepSpectraa/issues)
 - [Feature Requests](https://github.com/deepSpectraa/deepSpectraa/issues/new?template=featureRequest.md)
 - [Bug Reports](https://github.com/deepSpectraa/deepSpectraa/issues/new?template=bugReport.md)
 
