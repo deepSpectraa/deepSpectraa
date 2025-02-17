@@ -1,4 +1,4 @@
-# deepSpectra Quickstart Guide
+# deepSpectraa Quickstart Guide
 
 ## Installation
 

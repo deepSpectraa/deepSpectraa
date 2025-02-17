@@ -1,8 +1,8 @@
-# deepSpectra User Guide
+# deepSpectraa User Guide
 
 ## Overview
 
-deepSpectra is a sophisticated soil analysis application that provides detailed insights into soil properties at various depths. This guide will walk you through all aspects of using the application effectively.
+deepSpectraa is a sophisticated soil analysis application that provides detailed insights into soil properties at various depths. This guide will walk you through all aspects of using the application effectively.
 
 ## Getting Started
 
