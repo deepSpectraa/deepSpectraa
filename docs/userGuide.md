@@ -134,7 +134,7 @@ The system analyzes soil at six standard depths:
 
 - GitHub Repository: [deepSpectra GitHub](https://github.com/deepSpectraa/deepSpectraa.git)
 - Issue Tracking: [Report Issues](https://github.com/deepSpectraa/deepSpectraa/issues)
-- Documentation: [Full Documentation](./docs/README.md)
+- Documentation: [Full Documentation](README.md)
 
 ## Support
 

@@ -162,8 +162,8 @@ st.cache_data.clear()
 
 ## Next Steps
 
-1. Check the full [User Guide](docs/userGuide.md)
-2. Explore the [API Reference](docs/apiReference.md)
+1. Check the full [User Guide](userGuide.md)
+2. Explore the [API Reference](apiReference.md)
 3. Join our [Community](https://github.com/deepSpectraa/deepSpectraa/discussions)
 
 ## Getting Help
